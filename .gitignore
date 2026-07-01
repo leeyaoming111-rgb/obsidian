@@ -1,0 +1,9 @@
+# FIT plugin stores your GitHub token here — never commit this
+.obsidian/plugins/fit/data.json
+.obsidian/plugins/fit/debug.log
+
+# Workspace state changes constantly, not worth syncing
+.obsidian/workspace.json
+
+# Trash
+.trash/

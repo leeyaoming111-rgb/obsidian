@@ -1,0 +1,340 @@
+﻿[2026-07-01T08:45:37.488Z] [Plugin] Starting plugin initialization
+[2026-07-01T08:45:37.491Z] .. 📦 [Cache] Loaded SHA caches from storage: {
+  "source": "plugin data.json",
+  "localShaCount": 0,
+  "remoteShaCount": 0,
+  "lastCommit": null
+}
+[2026-07-01T08:45:37.492Z] [Plugin] Plugin initialization completed successfully
+[2026-07-01T09:04:03.415Z] [FitSettings] Could not fetch branches for leeyaoming111-rgb/obsidian: Repository 'leeyaoming111-rgb/ob' not found or inaccessible: {
+  "error": {
+    "name": "VaultError",
+    "message": "Repository 'leeyaoming111-rgb/ob' not found or inaccessible",
+    "type": "network",
+    "details": {
+      "originalError": {
+        "name": "HttpError",
+        "message": "Not Found - https://docs.github.com/rest/branches/branches#list-branches",
+        "status": 404,
+        "request": {
+          "method": "GET",
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/ob/branches?per_page=100&page=1",
+          "headers": {
+            "accept": "application/vnd.github.v3+json",
+            "user-agent": "octokit-core.js/7.0.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.12.7 Chrome/142.0.7444.265 Electron/39.8.3 Safari/537.36",
+            "x-github-api-version": "2022-11-28",
+            "authorization": "token [REDACTED]"
+          },
+          "request": {
+            "retries": 3,
+            "doNotRetry": [
+              400,
+              401,
+              403,
+              404,
+              422
+            ],
+            "retryCount": 3
+          }
+        },
+        "response": {
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/ob/branches?per_page=100&page=1",
+          "status": 404,
+          "headers": {
+            "content-type": "application/json; charset=utf-8",
+            "x-github-media-type": "github.v3; format=json",
+            "x-github-request-id": "E6D6:1B56F3:FB639F:1198817:6A44D803",
+            "x-ratelimit-limit": "5000",
+            "x-ratelimit-remaining": "4987",
+            "x-ratelimit-reset": "1782899184",
+            "x-ratelimit-resource": "core",
+            "x-ratelimit-used": "13"
+          },
+          "data": {
+            "message": "Not Found",
+            "documentation_url": "https://docs.github.com/rest/branches/branches#list-branches",
+            "status": "404"
+          }
+        }
+      }
+    }
+  }
+}
+[2026-07-01T09:04:05.179Z] [FitSettings] Could not fetch branches for leeyaoming111-rgb/obsidian: Repository 'leeyaoming111-rgb/obsidia' not found or inaccessible: {
+  "error": {
+    "name": "VaultError",
+    "message": "Repository 'leeyaoming111-rgb/obsidia' not found or inaccessible",
+    "type": "network",
+    "details": {
+      "originalError": {
+        "name": "HttpError",
+        "message": "Not Found - https://docs.github.com/rest/branches/branches#list-branches",
+        "status": 404,
+        "request": {
+          "method": "GET",
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/obsidia/branches?per_page=100&page=1",
+          "headers": {
+            "accept": "application/vnd.github.v3+json",
+            "user-agent": "octokit-core.js/7.0.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.12.7 Chrome/142.0.7444.265 Electron/39.8.3 Safari/537.36",
+            "x-github-api-version": "2022-11-28",
+            "authorization": "token [REDACTED]"
+          },
+          "request": {
+            "retries": 3,
+            "doNotRetry": [
+              400,
+              401,
+              403,
+              404,
+              422
+            ],
+            "retryCount": 3
+          }
+        },
+        "response": {
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/obsidia/branches?per_page=100&page=1",
+          "status": 404,
+          "headers": {
+            "content-type": "application/json; charset=utf-8",
+            "x-github-media-type": "github.v3; format=json",
+            "x-github-request-id": "E6D6:1B56F3:FB655A:1198A17:6A44D804",
+            "x-ratelimit-limit": "5000",
+            "x-ratelimit-remaining": "4982",
+            "x-ratelimit-reset": "1782899184",
+            "x-ratelimit-resource": "core",
+            "x-ratelimit-used": "18"
+          },
+          "data": {
+            "message": "Not Found",
+            "documentation_url": "https://docs.github.com/rest/branches/branches#list-branches",
+            "status": "404"
+          }
+        }
+      }
+    }
+  }
+}
+[2026-07-01T09:04:29.069Z] [Plugin] Starting plugin initialization
+[2026-07-01T09:04:29.071Z] .. 📦 [Cache] Loaded SHA caches from storage: {
+  "source": "plugin data.json",
+  "localShaCount": 0,
+  "remoteShaCount": 0,
+  "lastCommit": null
+}
+[2026-07-01T09:04:29.072Z] [Plugin] Plugin initialization completed successfully
+[2026-07-01T09:04:40.002Z] [FitSettings] Could not fetch branches for leeyaoming111-rgb/: Repository 'leeyaoming111-rgb/ob' not found or inaccessible: {
+  "error": {
+    "name": "VaultError",
+    "message": "Repository 'leeyaoming111-rgb/ob' not found or inaccessible",
+    "type": "network",
+    "details": {
+      "originalError": {
+        "name": "HttpError",
+        "message": "Not Found - https://docs.github.com/rest/branches/branches#list-branches",
+        "status": 404,
+        "request": {
+          "method": "GET",
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/ob/branches?per_page=100&page=1",
+          "headers": {
+            "accept": "application/vnd.github.v3+json",
+            "user-agent": "octokit-core.js/7.0.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.12.7 Chrome/142.0.7444.265 Electron/39.8.3 Safari/537.36",
+            "x-github-api-version": "2022-11-28",
+            "authorization": "token [REDACTED]"
+          },
+          "request": {
+            "retries": 3,
+            "doNotRetry": [
+              400,
+              401,
+              403,
+              404,
+              422
+            ],
+            "retryCount": 3
+          }
+        },
+        "response": {
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/ob/branches?per_page=100&page=1",
+          "status": 404,
+          "headers": {
+            "content-type": "application/json; charset=utf-8",
+            "x-github-media-type": "github.v3; format=json",
+            "x-github-request-id": "E6E7:24B092:ED59F2:10B856A:6A44D827",
+            "x-ratelimit-limit": "5000",
+            "x-ratelimit-remaining": "4977",
+            "x-ratelimit-reset": "1782899184",
+            "x-ratelimit-resource": "core",
+            "x-ratelimit-used": "23"
+          },
+          "data": {
+            "message": "Not Found",
+            "documentation_url": "https://docs.github.com/rest/branches/branches#list-branches",
+            "status": "404"
+          }
+        }
+      }
+    }
+  }
+}
+[2026-07-01T09:04:43.782Z] [FitSettings] Could not fetch branches for leeyaoming111-rgb/o: Repository 'leeyaoming111-rgb/j' not found or inaccessible: {
+  "error": {
+    "name": "VaultError",
+    "message": "Repository 'leeyaoming111-rgb/j' not found or inaccessible",
+    "type": "network",
+    "details": {
+      "originalError": {
+        "name": "HttpError",
+        "message": "Not Found - https://docs.github.com/rest/branches/branches#list-branches",
+        "status": 404,
+        "request": {
+          "method": "GET",
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/j/branches?per_page=100&page=1",
+          "headers": {
+            "accept": "application/vnd.github.v3+json",
+            "user-agent": "octokit-core.js/7.0.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.12.7 Chrome/142.0.7444.265 Electron/39.8.3 Safari/537.36",
+            "x-github-api-version": "2022-11-28",
+            "authorization": "token [REDACTED]"
+          },
+          "request": {
+            "retries": 3,
+            "doNotRetry": [
+              400,
+              401,
+              403,
+              404,
+              422
+            ],
+            "retryCount": 3
+          }
+        },
+        "response": {
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/j/branches?per_page=100&page=1",
+          "status": 404,
+          "headers": {
+            "content-type": "application/json; charset=utf-8",
+            "x-github-media-type": "github.v3; format=json",
+            "x-github-request-id": "E6E7:24B092:ED5CB3:10B88CA:6A44D82B",
+            "x-ratelimit-limit": "5000",
+            "x-ratelimit-remaining": "4973",
+            "x-ratelimit-reset": "1782899184",
+            "x-ratelimit-resource": "core",
+            "x-ratelimit-used": "27"
+          },
+          "data": {
+            "message": "Not Found",
+            "documentation_url": "https://docs.github.com/rest/branches/branches#list-branches",
+            "status": "404"
+          }
+        }
+      }
+    }
+  }
+}
+[2026-07-01T09:04:45.662Z] [FitSettings] Could not fetch branches for leeyaoming111-rgb/obsidia: Repository 'leeyaoming111-rgb/ob' not found or inaccessible: {
+  "error": {
+    "name": "VaultError",
+    "message": "Repository 'leeyaoming111-rgb/ob' not found or inaccessible",
+    "type": "network",
+    "details": {
+      "originalError": {
+        "name": "HttpError",
+        "message": "Not Found - https://docs.github.com/rest/branches/branches#list-branches",
+        "status": 404,
+        "request": {
+          "method": "GET",
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/ob/branches?per_page=100&page=1",
+          "headers": {
+            "accept": "application/vnd.github.v3+json",
+            "user-agent": "octokit-core.js/7.0.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.12.7 Chrome/142.0.7444.265 Electron/39.8.3 Safari/537.36",
+            "x-github-api-version": "2022-11-28",
+            "authorization": "token [REDACTED]"
+          },
+          "request": {
+            "retries": 3,
+            "doNotRetry": [
+              400,
+              401,
+              403,
+              404,
+              422
+            ],
+            "retryCount": 3
+          }
+        },
+        "response": {
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/ob/branches?per_page=100&page=1",
+          "status": 404,
+          "headers": {
+            "content-type": "application/json; charset=utf-8",
+            "x-github-media-type": "github.v3; format=json",
+            "x-github-request-id": "E6E7:24B092:ED5E22:10B8A66:6A44D82D",
+            "x-ratelimit-limit": "5000",
+            "x-ratelimit-remaining": "4969",
+            "x-ratelimit-reset": "1782899184",
+            "x-ratelimit-resource": "core",
+            "x-ratelimit-used": "31"
+          },
+          "data": {
+            "message": "Not Found",
+            "documentation_url": "https://docs.github.com/rest/branches/branches#list-branches",
+            "status": "404"
+          }
+        }
+      }
+    }
+  }
+}
+[2026-07-01T09:04:47.654Z] [FitSettings] Could not fetch branches for leeyaoming111-rgb/obsidian: Repository 'leeyaoming111-rgb/obsidia' not found or inaccessible: {
+  "error": {
+    "name": "VaultError",
+    "message": "Repository 'leeyaoming111-rgb/obsidia' not found or inaccessible",
+    "type": "network",
+    "details": {
+      "originalError": {
+        "name": "HttpError",
+        "message": "Not Found - https://docs.github.com/rest/branches/branches#list-branches",
+        "status": 404,
+        "request": {
+          "method": "GET",
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/obsidia/branches?per_page=100&page=1",
+          "headers": {
+            "accept": "application/vnd.github.v3+json",
+            "user-agent": "octokit-core.js/7.0.6 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.12.7 Chrome/142.0.7444.265 Electron/39.8.3 Safari/537.36",
+            "x-github-api-version": "2022-11-28",
+            "authorization": "token [REDACTED]"
+          },
+          "request": {
+            "retries": 3,
+            "doNotRetry": [
+              400,
+              401,
+              403,
+              404,
+              422
+            ],
+            "retryCount": 3
+          }
+        },
+        "response": {
+          "url": "https://api.github.com/repos/leeyaoming111-rgb/obsidia/branches?per_page=100&page=1",
+          "status": 404,
+          "headers": {
+            "content-type": "application/json; charset=utf-8",
+            "x-github-media-type": "github.v3; format=json",
+            "x-github-request-id": "E6E7:24B092:ED5FB5:10B8C2F:6A44D82F",
+            "x-ratelimit-limit": "5000",
+            "x-ratelimit-remaining": "4965",
+            "x-ratelimit-reset": "1782899184",
+            "x-ratelimit-resource": "core",
+            "x-ratelimit-used": "35"
+          },
+          "data": {
+            "message": "Not Found",
+            "documentation_url": "https://docs.github.com/rest/branches/branches#list-branches",
+            "status": "404"
+          }
+        }
+      }
+    }
+  }
+}
