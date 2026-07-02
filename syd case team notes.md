@@ -42,7 +42,7 @@ light and glo content
 
 R:  start making us agree on the key question before we're allowed to move on, start asking me at the end for the exact number for themetric so you can write the number on waterfall, other thing: i feel like intro rn is good and adds aura but could probably be used more strategically as a free insight pretty much and so we can discuss intro if we have time
 H: start using more timeline + rationale in implem + at least one creative thing + what you need before you can start eg. money or permits or wtv. continue also i thought your insights were good this round but could do with more numbers 
-P: start using case study + doing strat on whiteboard. continue challenging ideas on the spot and saying what it should be instead
+P: start using case study + doing strat on whiteboard. continue challenging ideas on the spot and saying what it should be instead.
 
 3 things
 1. Have at least one challenge the case in the insights
