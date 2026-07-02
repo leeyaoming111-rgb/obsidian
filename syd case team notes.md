@@ -45,4 +45,5 @@ H
 P
 
 3 things
-1. Have at least one new idea
+1. Have at least one challenge the case in the insights
+2. Write our own notes during insight dh
