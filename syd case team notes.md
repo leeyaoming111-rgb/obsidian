@@ -37,3 +37,12 @@ chocolate in purppose content
 light and glo content
 
 3 things to work on for the team + pws (stop start continue) moving forwards
+
+#### week 2
+
+R: 
+H
+P
+
+3 things
+1. Have at least one new idea
