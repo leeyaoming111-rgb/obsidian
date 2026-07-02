@@ -46,4 +46,5 @@ P
 
 3 things
 1. Have at least one challenge the case in the insights
-2. Write our own notes during insight dh
+2. Write our own notes during insight sharing and then pick our top 3
+3. 
