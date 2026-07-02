@@ -54,6 +54,7 @@ MLC
 - biggest problem with the distribution strategy is that its not clear where those new people are coming from
 - questionable whether we leave the missing middle unaddressed
 	- because its a key case question we should have one slide on it to 
+- justify discrepancy between strategies if the impact is too wide
 
 bush to bowl
 - put more numbers and finance in analysis and strategy 
@@ -71,3 +72,40 @@ what to do for next time
 - have flexible extra slides for important clarifications that we want to make
 	- this extends to being flexible and looking at structure of the entire preso as well to for example add analysis ooints for analysis heavy cases, or structure the presentation so that it spines better and try to match insights to their specific strategy
 - for me to elevate finance: combine numbers with a strong story, most people can only do one or the other
+- having a clear why for each metric + thing we say (omar) thing
+
+others for henry
+- stop changing insights after we discuss them
+- continue time checking and refning
+- start thinking more about what the founders really want
+- stop switching up in q and a and just back ourselves
+- start checking finer details of implem
+- continue proposing good strategy ideas 
+
+others for renee
+- start using customer journeys more
+- start proposing more strategies
+- continue having good logic in the case room
+- start framing insights with IMI or so what in the prep room
+- stop merging the sharing of insights too much and interrupting
+- continue doing customer journeys which help tell story
+
+others for pearl
+- start using board for strategy
+- continue backing your ideas
+- start going first if you feel like you have no insights
+- start asking for more time to form personal insights if you need it 
+- start using board for strategy
+- its good that you move us along but dont bring us a different point unless we reach consensus
+
+others for me
+- stop getting bogged down on details if we need to move on
+- start keeping track of time better and make the team aware
+- continue giving creative ideas which added a lot
+- try not to circle back on insights, if i feel strongly about smth push and dont come back to it
+- if we challenge the case start the discussion earlier before we'ev decided on things
+- continue testing assumptions with the team to get input, i do that sometimes but not all the time.
+- continue sharing unique insights
+- start using more impact oriented metrics
+- stop continuing point we drop / already reached consensus
+
