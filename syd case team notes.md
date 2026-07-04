@@ -168,4 +168,7 @@ feedback for my finances
 - this is important because it should ground the level of ambition / risk that the strategies should be
 - after strat i need to ask what impact it is going to have and figure out if it shifts the dial
 - after implem i need to ask henry what each of those things cost and he can use that in his slides 
-- 
+- for the actual finance part just need to use more graphs
+	- highlight a key metric that is being addressed
+- storywise it makes sense to have strat 1 strat 2 costs waterfall and summary of kpis
+- ghost slides for the team before i make the finance slides for the team
