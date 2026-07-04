@@ -113,7 +113,13 @@ others for me
 #### week 3
 
 r: honestly fixed what u got from last meeting, continue asking for number on waterfall, continue asking us for ideas for intro, continue doing customer journey, i think we didn't have anything to say because we were all stressed but we should be better next time, and then maybe the start is still like having more structured insights in IMI or a different structure i noticed that also this time
-p: continue using board for strategy and leading that, start calling more like decision moments so like either we do this or do that i feel like you would be good at doing that more, start 
-h: 
+p: continue using board for strategy and leading that, start calling more like decision moments so like either we do this or do that i feel like you would be good at doing that more, start putting more of our rationale and discussion into the preso cus i feel like we're missing out by not putting in a lot of the thinking that we did
+h: continue using numbers in insights that clearly came through, i also realise that i said i was gonna give you the diagram for the market thing but i didnt do it woops, continue leading insights i think that part of our prep is the best part of our process currently, continue offering for help when you have the time thats good, feel like you can start using more diagrams in the insights, obviously as a team but maybe you can try to press for each of our insights make sure that there's a clear diagram attached to it
+
+feedback for myself
+- need to prioritise getting finance output out earlier bro
+- need to use ai better im wasting my claude on stupid stuff
+- 
 
 team
+- yeah we defo need to get more matrix in i wanted to say that but i felt like you guys wanted to move on. like its super useful because then it tells us how big our strats need to be as well
