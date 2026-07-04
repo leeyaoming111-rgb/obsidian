@@ -123,3 +123,49 @@ feedback for myself
 
 team
 - yeah we defo need to get more matrix in i wanted to say that but i felt like you guys wanted to move on. like its super useful because then it tells us how big our strats need to be as well
+
+
+roshan and omar feedback
+- structure rejected strategies by having a risk and value and then focus on one specific strategy to kill, this can be used more strategically
+- analyse financial health better
+- customer on ramp linked to customer journeyh
+
+pws for me
+- stop circling back to stuff we already decided
+- start backing strategies more 
+- contnue contributing good logic and strategies in the room
+- start providing financial health metrics in the beginning
+- start making slides throughout the prep
+- continue asking queestions when confused or checking logic
+- stop letting us spiral if you know that we're overtime
+- start leading more financial discussion especially in finance heavy case
+- continue giving good insihgts backed with evidence which was helpful
+- consider spending more time for finance
+
+pws for pearl
+- start taking more control of the strat process
+- continue pushing back on details and refining logic
+- stop circling back on issues
+- start doing some financial analysis for insights if possible
+- continue sense checking for the team
+
+pws for henry
+- start clarifying strats more like how exactly we do
+- do implem details and clarifying implemt details more
+- contniue trying to understajd the business
+- start fleshing implem and creative twist more
+- start doing diagrams for the insights which saves time for slides
+- continue explining the case when we all have questions
+
+pws for renee
+- start pointing our more logic flaws nd being more critical
+- start providing more strategies once we do group disussion
+- start asking why more throughout the prep room so we can justify our decisions
+- continue trying to push us along when you can tell that we're spiralling
+
+feedback for my finances
+- start presenting financial health + previous growth insights in the insight time
+- this is important because it should ground the level of ambition / risk that the strategies should be
+- after strat i need to ask what impact it is going to have and figure out if it shifts the dial
+- after implem i need to ask henry what each of those things cost and he can use that in his slides 
+- 
