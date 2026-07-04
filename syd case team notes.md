@@ -109,3 +109,11 @@ others for me
 - start using more impact oriented metrics
 - stop continuing point we drop / already reached consensus
 
+
+#### week 3
+
+r: honestly fixed what u got from last meeting, continue asking for number on waterfall, continue asking us for ideas for intro, continue doing customer journey, i think we didn't have anything to say because we were all stressed but we should be better next time, and then maybe the start is still like having more structured insights in IMI or a different structure i noticed that also this time
+p: continue using board for strategy and leading that, start calling more like decision moments so like either we do this or do that i feel like you would be good at doing that more, start 
+h: 
+
+team
