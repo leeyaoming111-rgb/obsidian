@@ -175,6 +175,6 @@ feedback for my finances
 
 #### week 4
 
-r: 
-p:
-h: 
+r: start tying strats to the insights more i feel like your ideas in particular tend to be good but very detatched from the insights
+p: feel like you often lean to consensus or like whats in the case, i think itd be good to have alternatives of your own that aren't just lets just keep it the same, so start challenging case more
+h: continue using diagrams in the insights its good, cant really think of a start
