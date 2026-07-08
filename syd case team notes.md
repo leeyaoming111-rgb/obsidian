@@ -172,3 +172,9 @@ feedback for my finances
 	- highlight a key metric that is being addressed
 - storywise it makes sense to have strat 1 strat 2 costs waterfall and summary of kpis
 - ghost slides for the team before i make the finance slides for the team
+
+#### week 4
+
+r: 
+p:
+h: 
