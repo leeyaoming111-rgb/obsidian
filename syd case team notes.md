@@ -178,3 +178,26 @@ feedback for my finances
 r: start tying strats to the insights more i feel like your ideas in particular tend to be good but very detatched from the insights
 p: feel like you often lean to consensus or like whats in the case, i think itd be good to have alternatives of your own that aren't just lets just keep it the same, so start challenging case more
 h: continue using diagrams in the insights its good, cant really think of a start
+
+pws for me
+- start checking the amount we generate shifts the dial
+- stop too much slide time
+- continue talking finance with the group like checking costs and stuff
+- start giving kpi earlier before we submit
+- continue voicing finances throughout even though renee doesn't know how to properly help
+- continue having creative strats
+- start giving us the story or the plan for the finances
+- when we discuss kpis after case question, we should discuss shifting the dial
+- stop tuning out of the group discussion early on
+- continue pushing to ground our strat discussion to reach consensus
+
+pws for pearl
+- start leading the strat selection more. as a team we should use a matrix and then compare our strat against the matrix
+- continue checking whats on each slide
+- start challenging the case more and do more creativity
+- start leading strat selection and outlining all the strats on the whiteboard
+- continue making the strat high level
+
+finance feedback
+- shift the dial
+- can just have a one slides key summary which would look like the waterfall at the beginning, with three key metrics at the top 
