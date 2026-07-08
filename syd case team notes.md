@@ -133,13 +133,13 @@ roshan and omar feedback
 pws for me
 - stop circling back to stuff we already decided
 - start backing strategies more 
-- contnue contributing good logic and strategies in the room
+- continue contributing good logic and strategies in the room
 - start providing financial health metrics in the beginning
 - start making slides throughout the prep
-- continue asking queestions when confused or checking logic
+- continue asking questions when confused or checking logic
 - stop letting us spiral if you know that we're overtime
 - start leading more financial discussion especially in finance heavy case
-- continue giving good insihgts backed with evidence which was helpful
+- continue giving good insights backed with evidence which was helpful
 - consider spending more time for finance
 
 pws for pearl
