@@ -198,6 +198,35 @@ pws for pearl
 - start leading strat selection and outlining all the strats on the whiteboard
 - continue making the strat high level
 
+pws for henry
+- presentation concisely feel like we ran out of time because we could cut out insight
+- start leading implem
+- start adapting if the time is running out more
+- start following the time more
+- continuing generating insightful insights and using diagrams to conevy
+
+pws for renee
+- start using diagram in insight and the so what in the insight
+- start checking and spining the case questions
+- start deciding which slides to cut if its too much
+- continue the competitive diagram
+
+strategy matrix
+- novelty
+- shifting the dial
+- difference from status quo
+- we dont present the above three but we measure against that
+- we present how it matches to our insights
+
 finance feedback
 - shift the dial
-- can just have a one slides key summary which would look like the waterfall at the beginning, with three key metrics at the top 
+- can just have a one slides key summary which would look like the waterfall at the beginning, with three key metrics at the top and then small breakdowns for how we got to that, and then graphs at the bottom
+	- use roshans small circle to big circle kpi to show how the metrics are improving
+- the amount of finance we present should be proportional to how much the case mentions finance.
+
+implem framework
+- barriers framework
+	- coming up with the 3 biggest barriers that are stopping the strategy from coming alive
+	- how and why and when
+- iceberg slide
+- risk and mitigation for implem like just what are the risks and then how does it work
