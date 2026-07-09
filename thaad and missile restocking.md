@@ -8,3 +8,4 @@ Lockheed Martin (LMT): should be the primary beneficiary of thaad ramp, with exp
 Northrop Grumman (NOC): winner via Sentinal ICBM, classified space, and ground based interceptor successor work. 
 Voyager Technologies (VOYG): 
 Kongsberg (KOG): norwegian aerospace prime (recently seperated from its maritime business)
+
