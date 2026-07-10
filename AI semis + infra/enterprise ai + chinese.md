@@ -5,3 +5,4 @@ netapp everpure competitor that already rerated but is still cheaper at 20s PE a
 baidu: kunlun chips and apollo go, chinese exposure, confusing pe but sold down to 2x rev. curious what their international growth prospects are.
 ecolab: defensiv compounder with ai optionality after liquid cooling acquisition
 smci nvidia allocation, revenue decel on custom hyperscaler silicon + dell, hpe pricing war, soft gross margin and weak balance sheet
+

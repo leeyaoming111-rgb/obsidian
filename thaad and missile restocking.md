@@ -9,3 +9,4 @@ Northrop Grumman (NOC): winner via Sentinal ICBM, classified space, and ground b
 Voyager Technologies (VOYG): 
 Kongsberg (KOG): norwegian aerospace prime (recently seperated from its maritime business)
 
+leidos (ldos)
