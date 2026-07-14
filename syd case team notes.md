@@ -234,6 +234,8 @@ implem framework
 
 ### week 5
 
-r: when renee 
-p:
-h:
+r: continue hurrying us along and being decisive with time, start tying strat to insight more again, start having at least one insight which contradicts the case given logic ( this is for everybody la)
+p: continue googling to double check if we say smth thats just wrong. start going back and referencing the strat matrix whenever we discuss strat start having at least one insight which contradicts the case given logic ( this is for everybody la)
+h: continue translating the insights into diagrams on the board so we can discuss. start having at least one insight which contradicts the case given logic ( this is for everybody la), for everybody also start being more blunt if you agree or disagree to begin with like make it clear which ones you want for eg. which 3 insights you would pick out of the lot. so then we can argue the combination and not individual ones which doesn't make sense because it needs to be evaluated against the whole. 
+
+overall i think we need creativity but you guys seem more comfortable with doing the other strat of having decent strat but really good detail and implem so if that's the case then lets focus our energies there.
