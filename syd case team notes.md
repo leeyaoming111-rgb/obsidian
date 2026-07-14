@@ -230,3 +230,10 @@ implem framework
 	- how and why and when
 - iceberg slide
 - risk and mitigation for implem like just what are the risks and then how does it work
+
+
+### week 5
+
+r: when renee 
+p:
+h:
