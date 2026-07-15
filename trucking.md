@@ -13,3 +13,36 @@ i dont really have an opinion on beat or miss but i think the rgument that their
 the one thing that will drive the share price is earnings momentum for intermodal. that is driven by volume growth, revenue per load, and margins. 
 
 problem in q1 was intermodal revenue excl FSC was down 2% qoq due to higher volumes in lower yield freight and lane mix that paid a lower base rate per load such as eastern mode conversion or shorter hauls. also due to lagging customer rates which are a headwind. 
+- this was also the case in q4 25 where rev excl fsc was down 2%, and q3 25 where rev excl fsc down 1%
+
+![[Pasted image 20260715224512.png]]
+- The Cass Truckload Linehaul Index rose to 150.8 in May, up 0.4% m/m and 6.9% y/y.
+- cass thinks mainly driven by supply factors, but yeah volumes are beginning to recover as well
+- think tl rates should continue to march higher in coming months
+
+
+![[Pasted image 20260715224709.png]]
+- may shipments only 1.8% lower yoy, which is the narrowest its been in 18 months.
+- seasonally adjusted, shipments fell though 0.3% month on month after 3 months of 6% total gain
+- At the May SA rate, this index would rise 1.8% y/y in 2H’26 and turn positive y/y in July.
+
+![[Pasted image 20260715230558.png]]
+- since June 2024, the average length of haul in SONAR’s [tender](https://getfreightdata.com/wiki/terms/tender?utm_source=fw_article&utm_medium=tooltip&utm_content=tender) data set has declined from approximately 607 miles to just above 500 miles — a 21% drop, with 11% of that occurring over the past year alone, making it a fairly linear trend.
+- reasons
+	- rail stealing share from trucking due to cost efficiency
+	- c
+- implications for jb hunt
+	- great that long haul truck lengths are shrinking in general because it means more of that long haul stuff is moving to rail which is their biggest segment
+	- c
+
+despite shrinking haul lengths though, we aren't seeing freeing up of capacity. tender rejections sit at multi-year highs above 17%, while spot rates are surging across all three main trailer types.
+- this is because demand for short haul trucking is growing and eating all the spare capacity so the market still feels tight
+
+but if primary advantage is cost, then why shouldnt rail, once catches up with TP in 6-12 months, just start losing share back to trucking? 
+- freightwatch thinks its service. in short, shippers will choose trucking over intermodal if the operational quality (speed, reliability, simplicity) of trucking is worth more to them than the 10–20% cost savings intermodal often provide.
+- in the past, supply chain managers have been happier to accept long lead times and slow rail because their strat was to import goods well ahead of expected demand.  
+	- but now, as inventory carrying costs are surging, inventory is now being managed just above replenishment.
+	- but then again, the fact that this shift isn't actually pushing load lengths higher means ==its most accurately the big growth in short-distance trucking that is driving shorter load lengths
+- implication for jb hunt
+	- demand is not actually growing for rail, it just happens to be a beneficiary. the real demand is in short distance trucking
+	- so vs peers who aren't diversified across truckload, rail, dedicated, like 
