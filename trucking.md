@@ -4,3 +4,4 @@ mgmt says most fuel is pass through to customer. but fuel prices normalising fro
 
 likely Brokerage (ICS) and Truckload (JBT) compresses margins due to contract rates lagging spot, but due to montgomery we should (should) see some market share gains as smaller brokers exit, but anyways means we can get a beat on topline but miss on eps
 
+the stock has run 44% ytd already to low 40s pe with the rest of the peer group like old dominion and ch robinson, and the street pretty much unanimously lifted price targets, making a beat and raise the consensus trade
