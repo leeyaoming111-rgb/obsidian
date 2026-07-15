@@ -4,7 +4,7 @@ mgmt says most fuel is pass through to customer. but fuel prices normalising fro
 
 likely Brokerage (ICS) and Truckload (JBT) compresses margins due to contract rates lagging spot, but due to montgomery we should (should) see some market share gains as smaller brokers exit, but anyways means we can get a beat on topline but miss on eps
 
-the stock has run 44% ytd already to low 40s pe with the rest of the peer group like old dominion and ch robinson, and the street pretty much unanimously lifted price targets, making a beat and raise the consensus trade. they want 11% rev growth on pcp with $1.70-1.75 eps, and 7.3% op margins vs 6.7% on pcp
+the stock has run 44% ytd already to low 40s pe with the rest of the peer group like old dominion and ch robinson, and the street pretty much unanimously lifted price targets, making a beat and raise the consensus trade. they want 11% rev growth on pcp with $1.70-1.75 eps, and 7.3% op margins vs 6.7% on pc
 
 mgmt are saying this is the start of a new upcycle with more favourable pricing as we continue to see capacity exiting and customer demand solidifying
 
@@ -45,4 +45,11 @@ but if primary advantage is cost, then why shouldnt rail, once catches up with T
 	- but then again, the fact that this shift isn't actually pushing load lengths higher means ==its most accurately the big growth in short-distance trucking that is driving shorter load lengths
 - implication for jb hunt
 	- demand is not actually growing for rail, it just happens to be a beneficiary. the real demand is in short distance trucking
-	- so vs peers who aren't diversified across truckload, rail, dedicated, like 
+	- so vs peers who aren't diversified across truckload, rail, dedicated, like
+	- 
+
+![[Screenshot 2026-07-15 at 11.40.11 PM.png]]
+dk why spot is higher than contract. in a healthy market, spot should be lower than contract because contract gives you premium for being locked in and guaranteed and stability. 
+
+simultaneously, no indications than spot should go down signifcantly, because tender rejections are still well above 16.5%. currently legacy contract is not catching up with the pricing power than carriers have now vs their shippers. 
+
