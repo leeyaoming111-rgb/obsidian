@@ -1,0 +1,1 @@
+[[JB Hunt (JBHT)]] expected to see greater demand in core intermodal due to capacity squeeze and related spot pricing tightness in freight. Question = can rail absorb new demand though? cus 
