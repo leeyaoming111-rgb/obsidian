@@ -255,4 +255,30 @@ pws for henry
 pws rfor renee
 - start asking for help for slides
 - start considering the business model more 
-- 
+- stop being on the fence and same goes for henry
+- take charge of ticking off the checkboard of everything we need. competitive response, options, 
+
+pws for henry
+- liked that we pushed being different
+- good that i'm the contrarian but dont be contrarian for the sake of it
+- be very clear about the why when i say something
+- and then explain why my version is better 
+- given i tend to introduce smth different, start being the one to led us out of the black hole either by pushing harder or accepting that it might not work
+- continue thinking outside the box. we can win either by challenging the case, perfect avergae strategy, or do a different strategy well
+- renee will lead us to the light
+- start challenging the case at the beginning and being clear about it, introducing it during strat gen makes it unclear. need to challenge earlier
+- stop saying that we need to be different its not a good reason
+- continue thinking outside the box and having a unique take
+- stop bringing up insights after weve slidified them
+	- start considering the business model and fraud
+- continue good discussion of finances
+
+how to get out of black hole
+- swap sides and argue
+- time box like 2mins and if draw we flip a coin
+- write out the logic chain of the whole argument so that we are very specific about where the disagreement comes from 
+
+analysis
+- present the insights back to the team once we have them in the room
+
+if i disagree stop the insights
