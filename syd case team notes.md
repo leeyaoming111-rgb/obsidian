@@ -243,3 +243,16 @@ overall i think we need creativity but you guys seem more comfortable with doing
 roshan's thing
 - question: whats the actual problem that click to pay is solving in your opinion? should be fraud right? or would you say its less of a problem than just a point of differentiation. or would you say click to pay indirectly boosts overall traffic so it grows their GDV.
 
+pws for pearl
+- sts
+
+pws for henry
+- start focusing on fraud more but fraud isnt a big issue
+- start notincing and calling out black holes more
+- continue generating good strats
+- continue the good work with insights and moving us along
+
+pws rfor renee
+- start asking for help for slides
+- start considering the business model more 
+- 
