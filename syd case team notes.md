@@ -239,3 +239,7 @@ p: continue googling to double check if we say smth thats just wrong. start goin
 h: continue translating the insights into diagrams on the board so we can discuss. start having at least one insight which contradicts the case given logic ( this is for everybody la), for everybody also start being more blunt if you agree or disagree to begin with like make it clear which ones you want for eg. which 3 insights you would pick out of the lot. so then we can argue the combination and not individual ones which doesn't make sense because it needs to be evaluated against the whole. 
 
 overall i think we need creativity but you guys seem more comfortable with doing the other strat of having decent strat but really good detail and implem so if that's the case then lets focus our energies there.
+
+roshan's thing
+- question: whats the actual problem that click to pay is solving in your opinion? should be fraud right? or would you say its less of a problem than just a point of differentiation. or would you say click to pay indirectly boosts overall traffic so it grows their GDV.
+
