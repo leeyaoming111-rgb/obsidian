@@ -281,4 +281,7 @@ how to get out of black hole
 analysis
 - present the insights back to the team once we have them in the room
 
-if i disagree stop the insights
+pws for me
+- if i disagree stop the insights
+- when i know that the financial impacts is bad then we should g
+
