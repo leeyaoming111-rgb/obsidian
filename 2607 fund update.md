@@ -16,4 +16,10 @@ Trading advice that resonated with me in light of this month's underperformance
 
 2. update on positioning and research efforts
 
-i acted on many of the themes i identified in the previous report. New additions for the long term portfolio are F5 Networks (FFIV), Baidu (BIDU), and Schaeffler (SHA0.de). These picks can all be boiled down a single sentence thesis, and are driven largely by narrative rather than valuation. These picks stood out because the narrative was clear, their technology is the best in their respective target market, 
+i acted on many of the themes i identified in the previous report. New additions for the long term portfolio are F5 Networks (FFIV), Baidu (BIDU), and Schaeffler (SHA0.de). These picks can all be boiled down a single sentence thesis, and are driven largely by narrative rather than valuation. These picks stood out because the narrative was clear, their technology is the best in their respective target market, and I felt there was room for discovery. What I mean by discovery is the likelihood of others jumping on the stock and building retail support.
+
+in the last month, i identified that the portfolio was highly correlated to the benchmark, and suggested strategies to address that issue. the primary strategy proposed was heavily reducing / eliminating my mag7 exposure. this resulted in a smaller beta 2.81 vs 3.33, lower correlation of 0.84 vs 0.90, and 1.77% standard deviation vs previous 9.71%. 
+
+2.81 is still too high though. and i would like for correlation to go lower. as a result, i've been focusing my research efforts on screening for stocks which have performed well with low col. a new part of the preliminary process is now to identify how the stock trades against its basket / peer group. not as a hard rule but a useful piece of information.
+
+3. 
