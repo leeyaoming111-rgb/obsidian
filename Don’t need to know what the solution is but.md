@@ -1,0 +1,2 @@
+
+The directional idea is that we will optimise for caching and memory through a networking focused solution. This implies some elegant solution which hurts the HBM and DRAM suppliers likely, and benefits the advanced networking companies.
