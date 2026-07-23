@@ -20,6 +20,14 @@ i acted on many of the themes i identified in the previous report. New additions
 
 in the last month, i identified that the portfolio was highly correlated to the benchmark, and suggested strategies to address that issue. the primary strategy proposed was heavily reducing / eliminating my mag7 exposure. this resulted in a smaller beta 2.81 vs 3.33, lower correlation of 0.84 vs 0.90, and 1.77% standard deviation vs previous 9.71%. 
 
-2.81 is still too high though. and i would like for correlation to go lower. as a result, i've been focusing my research efforts on screening for stocks which have performed well with low col. a new part of the preliminary process is now to identify how the stock trades against its basket / peer group. not as a hard rule but a useful piece of information.
+2.81 is still too high though. and i would like for correlation to go lower. as a result, i've been focusing my research efforts on screening for stocks which have performed well with low col. a new part of the preliminary process is now to identify how the stock trades against its basket / peer group. this information would ideally be used to adjust allocation such that the portfolio edges closer to market neutral during times of uncertain sentiment. 
 
-3. 
+3.  near-term outlook on July earnings and defence 
+
+Over the next week, the aim will be to fight for a positive p&l for the month through taking concentrated (>10% of portfolio) bets on companies I expect to exceed analyst expectations in their quarterly earnings reports. This strategy takes advantage of two key opportunities in the market currently. 
+
+Firstly, a series of beneficiaries of progress in AI through the DC buildout are almost certain (imo) to report very strong results, particularly players in WFE, WFE subsystems, analog semis, and companies critical for energisation, networking, and bleeding edge memory manufacturing. These companies are paid out of the ever larger pool of hyperscaler capex that must continue to fund the frontier model race. We should see that accelerating growth pass through to order book numbers and revenue.
+
+Secondly, many of these companies have experienced corrections up to 40% off ATHs, and now trade at more affordable valuations than a month ago with improving underlying fundamentals and narrative.
+
+An increasing part of the portfolio is in defence names. Despite underperformance, I remain confident that we will see defence names return to favour as the world enters a new  
