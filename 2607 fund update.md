@@ -1,7 +1,7 @@
 1. obvious point to cover is the big selloff in semis rom ATHs with soxx down 15.62% in the reporting period. 
 - this didnt translate onto nasdaq, only down 126 basis points due to reboudnign efforts from mag7. s&p up 49 basis points on the period. 
 
-from those numbers its clear that this was not a broad market selloff but one targeted at semis names. include SPSIAD which was down 4.66% on the period, and it could be said that this was an attack on "momentum", defined as equities which respond sharply to sentiment (as opposed to change in fundamentals), and can often run to valuations that price in earnings projections 2-3 years ahead.
+from those numbers its clear that this was not a broad market selloff but one targeted at semis names. include SPSIAD (Aerospace and Defence Select) which was down 4.66% on the period, and it could be said that this was an attack on "momentum", defined as equities which respond sharply to sentiment (as opposed to change in fundamentals), and can often run to valuations that price in earnings projections 2-3 years ahead.
 
 A critical example of this in my portfolio is LPKF Laser and Electronics, an early holding in the fund that contributed -0.88 CTR% this period, only behind Aevex Corp at -0.97 CTR%.
 
@@ -30,4 +30,5 @@ Firstly, a series of beneficiaries of progress in AI through the DC buildout are
 
 Secondly, many of these companies have experienced corrections up to 40% off ATHs, and now trade at more affordable valuations than a month ago with improving underlying fundamentals and narrative.
 
-An increasing part of the portfolio is in defence names. Despite underperformance, I remain confident that we will see defence names return to favour as the world enters a new  
+I increased exposure to defence names, particularly those in emerging themes such as autonomous drone warfare, C-UAS, and missile restocking. This brings total exposure in defence to upwards of 20% of the fund. While I remain bullish on defence as a sector in the near term, I expect those categories to outperform their index due to continuing munitions consumption in Hormuz, positive read-throughs for sector-wide demand from key suppliers like Aerovironment who posted outstanding results in H1 2026, as well as my own channel checks across twitter and social media indicating an ramp up phase of new orders for companies we are invested in.
+
