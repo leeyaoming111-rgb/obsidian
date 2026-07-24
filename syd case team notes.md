@@ -285,3 +285,11 @@ pws for me
 - if i disagree stop the insights
 - when i know that the financial impacts is bad then we should g
 
+
+cq: how can Vector continue to grow amidst the changing energy market landscape, to deliver increasing dividend payouts to shareholders
+
+
+innovation is an existential threat to your plan for rolling out smart meters
+customers are organically shifting off the grid towards distributed energy services
+data from your smart meters is an unmonetised opportunity
+
