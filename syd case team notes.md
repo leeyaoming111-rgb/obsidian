@@ -288,8 +288,19 @@ pws for me
 
 cq: how can Vector continue to grow amidst the changing energy market landscape, to deliver increasing dividend payouts to shareholders
 
+insights
+- innovation is an existential threat to your plan for rolling out smart meters
+- customers are organically shifting off the grid towards distributed energy services
+- data from your smart meters is an unmonetised opportunity
 
-innovation is an existential threat to your plan for rolling out smart meters
-customers are organically shifting off the grid towards distributed energy services
-data from your smart meters is an unmonetised opportunity
+strategies
+- metermind: a toolable smart meter solution that prioritises modularity and serviceability vs cost
+	- why: more expensive per unit, but more valuable in long run due to avoiding high cost of replacement
+- sungenie: a subsidised program to encourage adoption of household solar connections
+	- why: this gets you to keep connections on the grid 
+
+key lessons
+- challenge the case because there was a reason why solar adoption dindt succeed
+- dont focus too much on the external knowledge because for a judbge thats read the case its like a bit jarring
+- take the company financial profile as a direct consideration for deciding the metric
 
